@@ -1,7 +1,9 @@
 # BA-TL-TEXT
 
-This repository serves as an translation for the game to be putted in the [BA-TL-Assets](https://github.com/Special-Operation-Decagrammaton/BA-TL-Assets).
+This repository hosts community translations for game assets. Finalized translations are deployed to [BA-TL-Assets](https://github.com/Special-Operation-Decagrammaton/BA-TL-Assets).
 
-If you want to contribute, please read the [wiki](https://github.com/Special-Operation-Decagrammaton/BA-TL-TEXT/wiki) to understand how the text is structured.
+### ✍️ How to Contribute
+We welcome contributions! To ensure your translations are formatted correctly, please review our [Wiki](https://github.com/Special-Operation-Decagrammaton/BA-TL-TEXT/wiki) for a detailed breakdown of the text structure and workflow.
 
-Go check [BA-RAW-TEXT](https://github.com/Special-Operation-Decagrammaton/BA-RAW-TEXT) for the raw text as an reference.
+### 🔍 Reference Material
+If you need to compare against the original game files or other languages, refer to [BA-RAW-TEXT](https://github.com/Special-Operation-Decagrammaton/BA-RAW-TEXT) for the latest raw data dumps.
